@@ -16,17 +16,19 @@
 
 ## Estructura del proyecto
 
+```bash
 cypress-aserciones/
 │
 ├── cypress/
-│ ├── e2e/
-│ │ └── registro.cy.js # Casos de prueba
-│ ├── support/
-│ │ └── commands.js # Custom Commands
-│ └── fixtures/  
+│   ├── e2e/
+│   │   └── registro.cy.js       # Casos de prueba principales
+│   ├── support/
+│   │   └── commands.js          # Custom Commands reutilizables
+│   └── fixtures/              
 │
-├── package.json
-└── README.md
+├── package.json                
+└── README.md                    # Documentación del proyecto
+```
 
 ## Pruebas Implementadas
 

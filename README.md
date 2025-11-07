@@ -4,8 +4,7 @@
 
 ## Clonar el repositorio:
 
--   git clone https://github.com/tuusuario/actividad-aserciones-cypress.git
-    cd actividad-aserciones-cypress
+-   git clone https://github.com/misaa023/actividad1
 
 ## Instalar dependencias:
 
